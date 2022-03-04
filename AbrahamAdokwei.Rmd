@@ -48,7 +48,7 @@ Write a blog post addressing the questions:
     
 2. **Describe your experience with a data intensive (collaborative) project. What are the most prominent issues with ensuring reproducibility of research results (focus on data related aspects)? What would you do differently if you could go back in time?**
 
-        - 
+        - During one of my first collaborative project using *github*, we all had the data downloaded and so we individually had to find a way to engage the data when trying to complete a task. At this point, I believe it would've been easier to have the data added to the github repository. That way we won't each have to struggle getting hold of the data. 
 
 Go to [https://github.com/Stat585-at-ISU/blog-2019](https://github.com/Stat585-at-ISU/blog-2019) for instructions about how to prepare and submit your blog post.
 
