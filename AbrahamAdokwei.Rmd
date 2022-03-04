@@ -1,6 +1,6 @@
 ---
-author: "Firstname Lastname"
-title: "Title of your post"
+author: "Abraham Adokwei"
+title: "Issues on Reproducibility"
 layout: post
 topic: "06"
 short-topic: More on reproducibility...
@@ -34,13 +34,21 @@ Write a blog post addressing the questions:
 
 1. **Answer each of the following questions with at least 2-3 sentences.**
 
-    1. **Summarize Roger Peng's outline for reproducibility in** *Biostatistics*. 
+    1. **Summarize Roger Peng's outline for reproducibility in** *Biostatistics*.
+        - We live in a world with an increasing availability of data. Most of this data come in varying level of complexity and usually require sophisticated methods to draw insight from them. Peng emphasizes that in most situations, the possibility of inadvertent errors is on the rise. In his outline, Peng proposed three criteria for reproducing research results – Data, Code, Reproducible. To satisfy the "Reproducible" criteria, Peng recommends that authors submit all necessary materials in order to produce output similar to that obtained by the author. 
     2. **What are Keiding's main criticisms of the proposal?**. 
+        -	Keiding argues that making data and code publicly available with the purpose of reproducing similar results by the authors only encourages the occurrence of poorly informed reanalyses of old data sets about which the statistician knows almost nothing about. To Keiding, there is no guarantee that the "reproduction" that comes out of this culture will benefit science.
+        - Keiding further argues that Peng’s recommendations for reproducibility does not create a constructive approach to reproducibility. Thus Keiding believes that proposed framework does not provide space for imagination.  
     3. **Which point in the commentaries speaks to you the most? Why?**
+        - *Analysis by D. R. Cox and Christl Donnelly*. 
+        >>	The purpose of providing the full data was not primarily to encourage repetition of our own analyses, although of course anyone who wishes to do that is very welcome. Rather it is to encourage, with discussion with subject-matter specialists, the formulation and investigation of new questions, for example, about spatial–temporal aspects of wildlife ecology.
+        - I am not against making data publicly available for use. This is a large extent may encourage other insightful questions that may lead to further methodological development. In my opinion, I think the objective of making data and code public for the sole purpose of reproducing similar results as a general "check" of reproducibility could be made clearer. Like they put it, this seems not merely unnecessary but a misuse of relatively scarce expertise. 
     4. **How does Keiding respond to the commentary you picked. What are his main points in his response?**
+        -	Keiding turn to fully agree with the conclusion remarks of Cox and Donnelly. Keiding in his response emphasized the variety of purposes of making data publicly available as opposed to using the data as a check of accuracy of results. 
     
-2. **Describe your experience with a data intensive (collaborative) project. What are the most prominent issues with ensuring reproducibility of research results (focus on dta related aspects)? What would you do differently if you could go back in time?**
+2. **Describe your experience with a data intensive (collaborative) project. What are the most prominent issues with ensuring reproducibility of research results (focus on data related aspects)? What would you do differently if you could go back in time?**
 
+        - 
 
 Go to [https://github.com/Stat585-at-ISU/blog-2019](https://github.com/Stat585-at-ISU/blog-2019) for instructions about how to prepare and submit your blog post.
 
